@@ -10,6 +10,6 @@ Ejercicio de la sesion N°4 del curso de java
 
 
 
-![Captura de pantalla 2023-08-17 153825](https://github.com/Benji379/EjercicioPOO_Arquitecto/assets/108637204/b20b9dbf-27ff-4f38-a365-a7990086b1ba)
+![Captura de pantalla 2023-08-17 153825](https://github.com/Benji379/EjercicioPOO_Arquitecto/assets/108637204/e8d31467-efc1-4d32-bd4d-0e70729e1300)
 
-![Captura de pantalla 2023-08-17 153859](https://github.com/Benji379/EjercicioPOO_Arquitecto/assets/108637204/9b20bffd-bc37-42da-9add-f28dc7c6b542)
+![Captura de pantalla 2023-08-17 153859](https://github.com/Benji379/EjercicioPOO_Arquitecto/assets/108637204/bbbe27e9-985a-49a6-8ec3-f03650bee89e)
